@@ -1,1 +1,1 @@
-![Hit Counter](https://www.webfreecounter.com/hit.php?id=geaqqaa&nd=6&style=22)
+![Page-Hit Map](https://hitmap.crawford.workers.dev/world/github.svg)
